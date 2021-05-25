@@ -1,0 +1,16 @@
+F:\Projects\OOToFp\EvolutionOfCode\EvolutionOfCode\bin\Debug\net5.0\EvolutionOfCode.exe
+F:\Projects\OOToFp\EvolutionOfCode\EvolutionOfCode\bin\Debug\net5.0\EvolutionOfCode.deps.json
+F:\Projects\OOToFp\EvolutionOfCode\EvolutionOfCode\bin\Debug\net5.0\EvolutionOfCode.runtimeconfig.json
+F:\Projects\OOToFp\EvolutionOfCode\EvolutionOfCode\bin\Debug\net5.0\EvolutionOfCode.runtimeconfig.dev.json
+F:\Projects\OOToFp\EvolutionOfCode\EvolutionOfCode\bin\Debug\net5.0\EvolutionOfCode.dll
+F:\Projects\OOToFp\EvolutionOfCode\EvolutionOfCode\bin\Debug\net5.0\ref\EvolutionOfCode.dll
+F:\Projects\OOToFp\EvolutionOfCode\EvolutionOfCode\bin\Debug\net5.0\EvolutionOfCode.pdb
+F:\Projects\OOToFp\EvolutionOfCode\EvolutionOfCode\obj\Debug\net5.0\EvolutionOfCode.csprojAssemblyReference.cache
+F:\Projects\OOToFp\EvolutionOfCode\EvolutionOfCode\obj\Debug\net5.0\EvolutionOfCode.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\OOToFp\EvolutionOfCode\EvolutionOfCode\obj\Debug\net5.0\EvolutionOfCode.AssemblyInfoInputs.cache
+F:\Projects\OOToFp\EvolutionOfCode\EvolutionOfCode\obj\Debug\net5.0\EvolutionOfCode.AssemblyInfo.cs
+F:\Projects\OOToFp\EvolutionOfCode\EvolutionOfCode\obj\Debug\net5.0\EvolutionOfCode.csproj.CoreCompileInputs.cache
+F:\Projects\OOToFp\EvolutionOfCode\EvolutionOfCode\obj\Debug\net5.0\EvolutionOfCode.dll
+F:\Projects\OOToFp\EvolutionOfCode\EvolutionOfCode\obj\Debug\net5.0\ref\EvolutionOfCode.dll
+F:\Projects\OOToFp\EvolutionOfCode\EvolutionOfCode\obj\Debug\net5.0\EvolutionOfCode.pdb
+F:\Projects\OOToFp\EvolutionOfCode\EvolutionOfCode\obj\Debug\net5.0\EvolutionOfCode.genruntimeconfig.cache

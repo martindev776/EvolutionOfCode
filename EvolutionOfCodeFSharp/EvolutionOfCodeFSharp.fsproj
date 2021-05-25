@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Assignment3\NumbersModule.fs" />
+    <Compile Include="Assignment3\Translators\TranslateFromEnglishModule.fs" />
+    <Compile Include="Assignment3\Translators\TranslateFromSpanishModule.fs" />
+    <Compile Include="Assignment3\Translators\TranslateFromGermanModule.fs" />
+    <Compile Include="Assignment3\Translators\TranslateFromFrenchModule.fs" />
+    <Compile Include="Assignment3\Translators\TranslateFromItalianModule.fs" />
+    <Compile Include="Assignment2\Assignment2.fs" />
+    <Compile Include="Assignment1\Assignment1.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+</Project>
