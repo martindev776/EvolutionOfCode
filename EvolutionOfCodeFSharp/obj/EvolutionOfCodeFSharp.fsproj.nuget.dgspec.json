@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Projects\\OOToFp\\EvolutionOfCode\\EvolutionOfCodeFSharp\\EvolutionOfCodeFSharp.fsproj": {}
+    "E:\\GitRepos\\EvolutionOfCode\\EvolutionOfCodeFSharp\\EvolutionOfCodeFSharp.fsproj": {}
   },
   "projects": {
-    "F:\\Projects\\OOToFp\\EvolutionOfCode\\EvolutionOfCodeFSharp\\EvolutionOfCodeFSharp.fsproj": {
+    "E:\\GitRepos\\EvolutionOfCode\\EvolutionOfCodeFSharp\\EvolutionOfCodeFSharp.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projects\\OOToFp\\EvolutionOfCode\\EvolutionOfCodeFSharp\\EvolutionOfCodeFSharp.fsproj",
+        "projectUniqueName": "E:\\GitRepos\\EvolutionOfCode\\EvolutionOfCodeFSharp\\EvolutionOfCodeFSharp.fsproj",
         "projectName": "EvolutionOfCodeFSharp",
-        "projectPath": "F:\\Projects\\OOToFp\\EvolutionOfCode\\EvolutionOfCodeFSharp\\EvolutionOfCodeFSharp.fsproj",
+        "projectPath": "E:\\GitRepos\\EvolutionOfCode\\EvolutionOfCodeFSharp\\EvolutionOfCodeFSharp.fsproj",
         "packagesPath": "C:\\Users\\Jake\\.nuget\\packages\\",
-        "outputPath": "F:\\Projects\\OOToFp\\EvolutionOfCode\\EvolutionOfCodeFSharp\\obj\\",
+        "outputPath": "E:\\GitRepos\\EvolutionOfCode\\EvolutionOfCodeFSharp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -39,6 +39,7 @@
           "targetAlias": "net5.0",
           "dependencies": {
             "FSharp.Core": {
+              "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
               "target": "Package",
               "version": "[5.0.0, )",
               "generatePathProperty": true
@@ -59,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

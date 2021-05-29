@@ -1,4 +1,4 @@
-﻿ module Assignment1
+﻿module Assignment1
 
 let MapToString number =
     match number with
