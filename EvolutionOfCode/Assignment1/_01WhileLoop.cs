@@ -9,7 +9,7 @@
             int i = 0;
             while (i < numbers.Length)
             {
-                if (i % 2 == 0)
+                if (numbers[i] % 2 == 0)
                 {
                     if (numbers[i] == 0)
                         strings[evensIndex] = "zero";

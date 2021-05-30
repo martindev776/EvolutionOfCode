@@ -11,5 +11,5 @@ let MapToString number =
 
 let Run numbers =
     numbers
-    |> List.filter (fun x -> x % 2 = 0)
-    |> List.map MapToString
+    |> Array.filter (fun x -> x % 2 = 0)
+    |> Array.map MapToString
