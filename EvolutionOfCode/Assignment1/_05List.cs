@@ -10,7 +10,7 @@ namespace EvolutionOfCode.Assignment1
 
             for (var i = 0; i < numbers.Length; i++)
             {
-                if (i % 2 == 0)
+                if (numbers[i] % 2 == 0)
                 {
                     switch (i)
                     {
